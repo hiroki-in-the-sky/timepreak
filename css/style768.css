@@ -1,0 +1,270 @@
+@media (min-width: 768px) {
+  .top_parent {
+    background-position: top;
+    background-size: cover;
+    height: 550px;
+    overflow: hidden;
+  }
+  img.child_parent1 {
+    width: 20%;
+    left: 15%;
+  }
+  img.child_parent2 {
+    width: 54%;
+    top: 15%;
+    left: 30%;
+  }
+  img.child_parent3 {
+    display: none;
+  }
+  img.child_parent3_PC {
+    display: block;
+    position: absolute;
+    width: 2260px;
+    left: 44%;
+    z-index: 80;
+  }
+  ul.slider.slick-initialized.slick-slider {
+    position: absolute;
+    width: 100%;
+    bottom: 1%;
+  }
+  h1 {
+    text-align: center;
+  }
+
+  .top_child_label {
+    left: 25%;
+    bottom: 25%;
+  }
+  .top_child_label img {
+    width: 150px;
+    height: 150px;
+  }
+  .takuhai_btn img {
+    width: 52%;
+    bottom: 5%;
+    z-index: 80;
+  }
+  .parent_green_line_flex_sm {
+    display: none;
+  }
+  .parent_green_line_flex_md {
+    width: 30%;
+    display: flex;
+    margin: 20px auto;
+  }
+  .child_lightgreen_line,
+  .child_green_line {
+    height: 35px;
+  }
+  .features0 {
+    display: flex;
+  }
+  .features_title {
+    height: 150px;
+  }
+  .features_title h3 {
+    font-size: 1rem;
+  }
+  .features1 h4,
+  .features2 h4 {
+    font-size: 0.8rem;
+    color: rgb(122, 117, 117);
+    text-align: center;
+    line-height: 1.5em;
+  }
+  p.kome_parent {
+    font-size: 0.8rem;
+  }
+  .mini_text {
+    font-size: 0.6rem;
+  }
+  .header_title h1 {
+    font-size: 25px;
+    line-height: 1.5em;
+  }
+  .parent_green_line_flex {
+    width: 30%;
+  }
+  .cause_title {
+    width: 90%;
+    margin: 40px auto 0;
+    height: 70px;
+  }
+  .cause_img img {
+    display: block;
+    position: absolute;
+    width: 85%;
+    bottom: 0;
+    left: 30px;
+  }
+  img.cause_img {
+    margin: auto 20px auto 0;
+    width: 10%;
+    height: 10%;
+  }
+  .cause_img {
+    position: relative;
+    width: 35%;
+  }
+  .cause_flex,
+  .cause01,
+  .cause02,
+  .cause03 {
+    display: flex;
+    width: 100%;
+  }
+  p.cause_p1,
+  p.cause_p2,
+  p.cause_p3 {
+    text-align: left;
+  }
+  .caise_difference {
+    display: flex;
+  }
+
+  .tigai01 ul,
+  .tigai02 ul {
+    /* list-style: disc; */
+    padding-left: 30px;
+  }
+  .tigai01 ul li::before,
+  .tigai02 ul li::before {
+    position: relative;
+    top: -1px;
+    left: -8px;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    content: "";
+    border-radius: 100%;
+    background: darkgreen;
+  }
+  .cause_title.cause_title2 {
+    margin: 25px auto 5px;
+  }
+  .caise_difference_right .cause_title,
+  .caise_difference_right .cause_hukidasi.cause_hukidasi2 {
+    background-color: #eeeeee;
+  }
+
+  .user_all {
+    display: flex;
+  }
+  .user {
+    margin: 2rem 1rem;
+  }
+  .line_box {
+    height: 30px;
+    margin: 0 auto;
+  }
+  p.line_text {
+    padding: 0.8rem;
+    font-size: 1rem;
+  }
+
+  .user_text_box,
+  .user_text_box2 {
+    font-size: 0.7rem;
+  }
+  img.glafhimg {
+    display: none;
+  }
+  img.glafhimg_pc {
+    display: block;
+  }
+  .step_all {
+    display: flex;
+  }
+  .step {
+    margin: 20px auto;
+    width: 25%;
+  }
+  .voice_total {
+    padding-bottom: 30px;
+  }
+  .voice_all {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+  }
+  .voice_all {
+    display: flex;
+  }
+  .hukidasi {
+    width: 95%;
+    font-size: 0.7rem;
+  }
+  .voice_text {
+    font-size: 0.7rem;
+  }
+  .voice_hukidasi {
+    width: 28%;
+  }
+  .QA_q img,
+  .QA_a img {
+    width: 5%;
+  }
+  .QA_a {
+    margin: 0 10px 10px;
+  }
+  .QA_q h4,
+  .QA_a h4 {
+    font-size: 0.8rem;
+    margin: 8px 10px;
+  }
+  ul.accordion_area h3 {
+    padding: 10px;
+    text-align: center;
+  }
+  .QA_yajirusi {
+    display: block;
+  }
+  .footer_up {
+    display: flex;
+    justify-content: space-between;
+  }
+  .uru,
+  .app,
+  .sns {
+    width: 20%;
+  }
+  .uru h4 .kau h4 {
+    margin: 2px 0;
+  }
+  .uru h3,
+  .kau h3 {
+    margin-left: 10px;
+  }
+  .uru_flex {
+    display: flex;
+    align-items: flex-end;
+  }
+  .kau {
+    width: 30%;
+  }
+  .footer_SNS_ul_flex_pc {
+    display: flex;
+  }
+  .footer_bottom_flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .footer_total {
+    display: none;
+  }
+  .footer_total_pc {
+    display: block;
+    background-color: black;
+    color: aliceblue;
+  }
+  img.SNS_icon {
+    width: 40px;
+    height: 40px;
+  }
+  .step_img02 {
+    height: 120px;
+  }
+}

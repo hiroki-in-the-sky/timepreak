@@ -1,0 +1,109 @@
+@media (min-width: 1200px) {
+  .sidetext {
+    width: 70px;
+    height: 200px;
+    border-radius: 20px 0 0 20px;
+  }
+  .top_parent {
+    height: 700px;
+  }
+  img.child_parent3_PC {
+    width: 3000px;
+  }
+  img.child_parent2 {
+    width: 47%;
+    left: 28%;
+  }
+  .top_child_label {
+    left: 22%;
+    bottom: 25%;
+  }
+  .top_child_label img {
+    width: 180px;
+    height: 180px;
+  }
+  .takuhai_btn img {
+    width: 40%;
+    height: 15%;
+  }
+  .cause_flex {
+    height: 420px;
+    justify-content: center;
+  }
+  .cause_img img {
+    width: 70%;
+  }
+  .cause02 .cause_img,
+  .cause03 .cause_img {
+    width: 12%;
+  }
+  .cause_img {
+    margin: 0;
+  }
+  .cause03 {
+    border-bottom: 1px dotted darkgray;
+    margin: 1.5rem auto;
+    padding-bottom: 1.5rem;
+  }
+  .user_total {
+    padding: 30px;
+  }
+  .glafh {
+    width: 80%;
+    margin: auto;
+  }
+  .user_text_box {
+    width: 500px;
+    font-size: 1rem;
+    line-height: 1.8em;
+    letter-spacing: 0.07em;
+  }
+  .line {
+    width: 500px;
+  }
+  .hukidasi {
+    font-size: 0.9rem;
+    text-align: left;
+    line-height: 1.8em;
+    letter-spacing: 0.08em;
+    padding: 20px;
+  }
+  .voice_text {
+    text-align: left;
+    font-size: 0.9rem;
+  }
+  .QA_q h4,
+  .QA_a h4 {
+    font-size: 1rem;
+    margin: 12px;
+  }
+  .QA_q img,
+  .QA_a img {
+    width: 50px;
+  }
+  ul.accordion_area {
+    padding: 0 50px;
+  }
+
+  .uru {
+    width: 15%;
+  }
+  .kau {
+    width: 35%;
+  }
+  .app,
+  .sns {
+    width: 20%;
+  }
+  .brandname {
+    padding-top: 20px;
+  }
+  .footer_bottom p,
+  .footer_copyright,
+  .footer_bottom_flex p {
+    font-size: 20px;
+  }
+  footer.footer_total_pc {
+    padding: 30px;
+  }
+}
